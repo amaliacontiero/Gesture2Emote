@@ -1,2 +1,5 @@
 .venv
 Data
+oldertests
+lstm_best_model
+deploy_G2E.py
