@@ -3,3 +3,5 @@ Data
 oldertests
 lstm_best_model
 deploy_G2E.py
+Gesture2Emotev2.ipynb
+Gesture2Emote_LOSO.ipynb
